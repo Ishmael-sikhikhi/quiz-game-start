@@ -16,3 +16,4 @@ while quiz.still_has_questions():
 
 print("You've completed the quiz!")
 print("Your final score is " + str(quiz.score))
+print("/n")
